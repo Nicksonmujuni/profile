@@ -2,9 +2,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>
-      THE FOUNDATION OF LIFE
-    </title>
+    <title>THE FOUNDATION OF LIFE</title>
     
   </head>
   <body>
